@@ -14,3 +14,5 @@ ENV/
 env/
 env.bak/
 venv.bak/
+chroma_db/
+2-Vector Stores and RAG/chroma_db/
